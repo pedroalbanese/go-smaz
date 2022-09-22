@@ -1,3 +1,3 @@
-module github.com/cespare/go-smaz
+module github.com/pedroalbanese/go-smaz
 
 go 1.17
